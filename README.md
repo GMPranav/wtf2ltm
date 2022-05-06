@@ -11,5 +11,5 @@
 * Download the python script
 * Open command window in the folder containing wtf2ltm.py
 * Run `wtf2ltm.py -f path/to/file.wtf` (where `path/to/file.wtf` is ofcourse the actual path to the .wtf file. Or just the filename if its in the same folder)
-* The output file `inputs` (with no file extension) will be created in the same extension
+* The output file `inputs` (with no file extension) will be created in the same folder as the script
 * You can either pack it if you know how to edit ltm files properly, or open it in text editor to copy the inputs
