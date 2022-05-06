@@ -8,7 +8,7 @@
 
 ## Usage
 
-* Download the python script
+* [Download](https://raw.githubusercontent.com/GMPranav/wtf2ltm/main/wtf2ltm.py) the python script
 * Open command window in the folder containing wtf2ltm.py
 * Run `wtf2ltm.py -f path/to/file.wtf` (where `path/to/file.wtf` is ofcourse the actual path to the .wtf file. Or just the filename if its in the same folder)
 * The output file `inputs` (with no file extension) will be created in the same folder as the script
